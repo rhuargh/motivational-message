@@ -1,0 +1,7 @@
+<script>
+
+yourName = prompt("What's your name?");
+
+document.write(yourName + ", you can do it!");
+
+</script>
